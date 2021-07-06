@@ -99,6 +99,10 @@ section {
 #like {
   margin-left: 10%;
 }
+.fab {
+  font-size: 50px;
+  padding-left: 18%;
+}
 .tomato {
   color: tomato;
 }
