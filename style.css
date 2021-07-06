@@ -51,7 +51,7 @@ section {
 }
 .recipie-image-section {
   display: flex;
-  margin-left: 10%;
+  margin-left: 12%;
   width: 900px;
 }
 .image-width {
@@ -81,7 +81,7 @@ section {
   display: flex;
   box-shadow: 0px 3px 20px gray;
   width: 70%;
-  margin-left: 13%;
+  margin-left: 15%;
   border-radius: 20px;
   background-image: linear-gradient(
     50deg,
